@@ -9,9 +9,7 @@ This project aims to predict whether a diabetic patient will be readmitted to a 
 4. [Model Evaluation](#model-evaluation)
 5. [Hyperparameter Tuning](#hyperparameter-tuning)
 6. [Results and Comparison](#results-and-comparison)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Conclusion](#conclusion)
+7. [Conclusion](#conclusion)
 
 ## Project Overview
 
@@ -85,6 +83,3 @@ Here is a summary of the results from each model:
 
 ## Conclusion
 The SVM model, after hyperparameter tuning, performed the best among all models for predicting hospital readmission in diabetic patients. Further improvements can be made by exploring additional feature engineering, deploying the model in a real-time environment, or testing it on larger datasets.
-
-```bash
-pip install pandas scikit-learn matplotlib seaborn
